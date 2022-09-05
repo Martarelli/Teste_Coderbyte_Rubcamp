@@ -10,4 +10,4 @@ function RecursionChallenge(num) {
       return num * RecursionChallenge(num - 1)
     }
   
-  }
+}
